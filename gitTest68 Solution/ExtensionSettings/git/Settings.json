@@ -1,6 +1,6 @@
 ﻿{
 	"gitRememberPassword":"true",
 	"serverType":"github",
-	"gitIsPrivateRepository":"true",
+	"gitIsPrivateRepository":"false",
 	"gitURL":"https://github.com/stemnikovorg"
 }
